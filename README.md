@@ -30,7 +30,7 @@
 | ISO 镜像 | 基于 Windows 10 PE，751 MB | 751 MB | [下载](https://1813271333.share.123pan.cn/123pan/euaUVv-0ZfGd?pwd=wt4x#) |
 | 便携版 (ZIP) | 直接运行，基于 Python，跨平台 | 60.7 MB | [下载](https://1813271333.share.123pan.cn/123pan/euaUVv-r10Gd?pwd=Jpge#) |
 
-> 发布日期：2026-07-10
+> 发布日期：2026-07-13
 
 ### 历史版本
 | 版本 | 日期 | 下载 |
